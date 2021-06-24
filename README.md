@@ -1,2 +1,3 @@
 # Site_1
-Site para lojas (salão de beleza)
+Olá, 
+Estou começando a desenvolver meu primeiro projeto, mais especificamente, um site de um salão de beleza.
